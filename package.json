@@ -1,0 +1,22 @@
+{
+  "name": "crud-mongodb",
+  "version": "1.0.0",
+  "description": "Tutorial MongoDB",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmendoncamascarenha/CRUD-MongoDB.git"
+  },
+  "author": "Murillo Mendonça Mascarenha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mmendoncamascarenha/CRUD-MongoDB/issues"
+  },
+  "homepage": "https://github.com/mmendoncamascarenha/CRUD-MongoDB#readme",
+  "dependencies": {
+    "mongoose": "^8.12.1"
+  }
+}
