@@ -1,3 +1,5 @@
+![GitHub License](https://img.shields.io/github/license/mmendoncamascarenha/CRUD-MongoDB)
+
 # CRUD-MongoDB
 
 Projeto de exemplo com operações CRUD (Create, Read, Update, Delete) utilizando **Node.js**, **Express** e **MongoDB**. Ideal para aprendizado de integração entre back-end e banco de dados NoSQL.
