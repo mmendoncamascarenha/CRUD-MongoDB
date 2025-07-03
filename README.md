@@ -4,19 +4,6 @@ Projeto de exemplo com operações CRUD (Create, Read, Update, Delete) utilizand
 
 ---
 
-## Tabela de Conteúdos
-
-1. [Sobre](#sobre)
-2. [Funcionalidades](#funcionalidades)
-3. [Tecnologias Utilizadas](#tecnologias-utilizadas)
-4. [Instalação](#instalação)
-5. [Uso](#uso)
-6. [Estrutura de Pastas](#estrutura-de-pastas)
-7. [Contribuição](#contribuição)
-8. [Licença](#licença)
-
----
-
 ## Sobre
 
 Este projeto demonstra como criar uma aplicação CRUD simples usando Node.js e MongoDB, com foco em organização de código e boas práticas no uso de rotas, controllers e integração com o banco de dados.
